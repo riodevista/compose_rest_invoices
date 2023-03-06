@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">Invoices Exercise</string>
+    <string name="default_error_message">Произошла ошибка</string>
+</resources>
