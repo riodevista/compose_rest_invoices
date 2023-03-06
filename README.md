@@ -35,7 +35,6 @@ Instructions on how to use the app:
 1. Launch the app.
 2. The app displays a list of invoices.
 3. Tap an invoice to view its details.
-4. Swipe down to refresh the list of invoices.
 
 ## Contributing
 
